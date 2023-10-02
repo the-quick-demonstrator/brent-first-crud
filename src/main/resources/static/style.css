@@ -1,0 +1,35 @@
+/* Apply some basic styles to the form */
+form {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Style the input fields */
+input {
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Style the buttons */
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Change button color on hover */
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Add some spacing between elements */
+br {
+    line-height: 10px;
+}
